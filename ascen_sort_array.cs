@@ -1,4 +1,3 @@
-/* Sorting an array in ascending order. */
 // program to sort array in ascending order in c sharp
 using System;
 namespace ConsoleApp
@@ -9,7 +8,7 @@ namespace ConsoleApp
         {
             int[] arr = new int[5];
             int temp;
-            Console.WriteLine("Enter the elements of array:"); 
+            Console.WriteLine("Enter the elements of array:"); //4 6 9 2 1
             for(int i=0;i<arr.Length;i++)
             {
                 arr[i] = Convert.ToInt32(Console.ReadLine());

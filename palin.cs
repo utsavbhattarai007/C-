@@ -4,7 +4,7 @@ namespace ConsoleApp
 {
     public class palin
     {
-        public static void Main(string[] args)
+        public static void Main17(string[] args)
         {
             int num, rev = 0, temp;
             Console.Write("Enter a number:");

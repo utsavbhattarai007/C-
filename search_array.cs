@@ -5,7 +5,7 @@ namespace ConsoleApp
 {
     public class search_array
     {
-        public static void Main00(string[] args)
+        public static void Main18(string[] args)
         {
             /* This is asking the user to enter the size of the array. */
             Console.Write("Enter the size of array: ");

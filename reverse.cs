@@ -4,7 +4,7 @@ namespace ConsoleApp
 {
     public class reverse
     {
-        public static void Main(string[] args)
+        public static void Main20(string[] args)
         {
             Console.Write("Enter a multi digit number:");
             int num = Convert.ToInt32(Console.ReadLine());

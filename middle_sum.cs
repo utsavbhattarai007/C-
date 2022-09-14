@@ -5,11 +5,11 @@ namespace ConsoleApp
 {
     public class middle_sum
     {
-        public static void Main13(string[] args)
+        public static void Main21(string[] args)
         {
             Console.Write("Enter the multi digit number");
             int n = Convert.ToInt32(Console.ReadLine()); 
-            int sum =1;
+            int sum =0;
             n=n/10; 
             while(n>=10) 
             {

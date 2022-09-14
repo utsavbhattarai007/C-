@@ -4,7 +4,7 @@ namespace ConsoleApp
 {
     public class arm
     {
-        public static void Main(string[] args)
+        public static void Main17(string[] args)
         {
             int num, temp, rem, sum = 0;
             Console.Write("Enter a number:");

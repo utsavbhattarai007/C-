@@ -5,7 +5,7 @@ namespace ConsoleApp
 {
     public class ascen_sort_array
     {
-        public static void Main(string[] args)
+        public static void Main15(string[] args)
         {
             int[] arr = new int[5];
             int temp;

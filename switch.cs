@@ -4,9 +4,9 @@ namespace ConsoleApp
 {
     public class calc
     {
-        public static void Main(string[] args)
+        public static void Main3(string[] args)
         {
-            int a, b, c, ch;
+            int a, b, c, ch;        
             Console.Write("Enter the first number:");
             a = Convert.ToInt32(Console.ReadLine());
             Console.Write("Enter the second number:");

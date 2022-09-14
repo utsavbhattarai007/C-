@@ -3,7 +3,7 @@ namespace ConsoleApp
 {
     public class salary
     {
-        public static void Main2(string[] args)
+        public static void Main14(string[] args)
         {
             int salary,tax,bonus,newSalary,salaryBouns;
             Console.Write("Enter the salary:");

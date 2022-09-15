@@ -8,7 +8,7 @@ namespace ConsoleApp
         {
             int[] arr = new int[5];
             int temp;
-            Console.WriteLine("Enter the elements of array:"); //4 6 9 2 1
+            Console.WriteLine("Enter the elements of array:"); 
             for(int i=0;i<arr.Length;i++)
             {
                 arr[i] = Convert.ToInt32(Console.ReadLine());

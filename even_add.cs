@@ -7,7 +7,7 @@ namespace ConsoleApp
     {
         public static void Main22(string[] args)
         {
-            Console.WriteLine("Enter the multi digit number"); //1234
+            Console.WriteLine("Enter the multi digit number:"); //1234
             int n = Convert.ToInt32(Console.ReadLine());
             int sum = 0;
             while (n > 0) //1234>0, 123>0, 12>0, 1>0, 0>0
@@ -18,14 +18,6 @@ namespace ConsoleApp
                     sum = sum + r; //4, 6, 6, 6, 6
                 }
                 n = n / 10; //1234/10=123, 123/10=12, 12/10=1, 1/10=0
-            }
-            {
-                int r = n % 10; //4
-                if (r % 2 == 0)
-                {
-                    sum = sum + r; //4
-                }
-               n=n/10; //123
             }
             Console.WriteLine("The sum of even digits is:" + sum);
         }

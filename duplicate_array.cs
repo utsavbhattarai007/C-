@@ -4,7 +4,7 @@ namespace ConsoleApp
 {
     class duplicate_array
     {
-        static void Main(string[] args)
+        static void Main26(string[] args)
         {
             int[] arr = new int[100];
             int i, j,  size, count = 0;

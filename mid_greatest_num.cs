@@ -21,6 +21,5 @@ class middle_greatest_number
         {
             Console.WriteLine("The middle number is " + c);
         }
-        Console.ReadLine();
     }
 }

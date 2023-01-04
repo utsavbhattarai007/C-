@@ -3,7 +3,7 @@ namespace abc
 {
     public class multi_darray_diagonal_sum
     {
-        public static void Main(String[] args)
+        public static void Main56(String[] args)
         {
             int sum = 0;
             Console.WriteLine("Enter the row and column size of the array:");

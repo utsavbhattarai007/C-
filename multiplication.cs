@@ -2,7 +2,7 @@
 using System;
 public class multiplication
 {
-    static void Main()
+    static void Main66()
     {
         int[,] arr1 = new int[3, 3];
         int[,] arr2 = new int[3, 3];

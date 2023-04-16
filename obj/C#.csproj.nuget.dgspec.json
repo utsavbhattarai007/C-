@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C#.csproj": {}
+    "D:\\C#\\Programs\\C#.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C#.csproj": {
+    "D:\\C#\\Programs\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C#.csproj",
+        "projectUniqueName": "D:\\C#\\Programs\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "D:\\C#\\C#.csproj",
+        "projectPath": "D:\\C#\\Programs\\C#.csproj",
         "packagesPath": "C:\\Users\\utsav\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\obj\\",
+        "outputPath": "D:\\C#\\Programs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\utsav\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
